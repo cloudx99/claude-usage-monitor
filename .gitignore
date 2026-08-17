@@ -1,0 +1,7 @@
+# Holds live OAuth refresh + access tokens and account emails. Never commit.
+store.json
+store.json.tmp
+
+__pycache__/
+*.pyc
+.claude-flow/
